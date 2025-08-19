@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <img 
-                src="/public/Без названия.png" 
+                src="/public/logo.png" 
                 alt="Jelai Logo" 
                 className="h-8 w-auto"
                 onError={(e) => {
