@@ -68,7 +68,7 @@ export const RegisterPage: React.FC = () => {
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <div className="text-center">
           <img 
-            src="/public/Без названия.png" 
+            src="/public/logo.png" 
             alt="Jelai Logo" 
             className="h-12 w-auto mx-auto"
             onError={(e) => {
